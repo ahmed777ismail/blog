@@ -1,4 +1,4 @@
-<?php session_start(); ?>
+<?php require_once('inc/connection.php'); ?>
 <?php require_once('inc/header.php'); ?>
 <?php require_once('inc/navbar.php'); ?>
 
